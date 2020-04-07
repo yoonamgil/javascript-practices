@@ -28,7 +28,7 @@
  o2.another.age=30;
  console.log(o2);
  
- //생성방법3 - (J)ava(S)cript (O)bject (N)otation : 자바 스크립트 객체 표기법 
+ //생성방법3 - (J)ava (S)cript (O)bject (N)otation : 자바 스크립트 객체 표기법 
  
  // =을 사용하면 안된다
  var o3 = {
